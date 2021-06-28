@@ -1,4 +1,5 @@
 # hello
-first repository
+First repository.
 
-just adding some lines to know.
+adding some lines to know.
+I didn't understand still.
